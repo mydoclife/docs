@@ -4,13 +4,13 @@
 
 本项目也欢迎所有面试官和面试者都来分享自己的一些想法。
 
-## PHP知识
+## PHP
 
 ### [ThinkPHP](/PHP/ThinkPHP/README.md)
 
 * [为什么使用消息队列？消息队列有什么优点和缺点？Kafka、ActiveMQ、RabbitMQ、RocketMQ 都有什么优点和缺点？](/docs/high-concurrency/why-mq.md)
 
-## JS知识
+## JS
 
 ### [Jquery](/Js/README.md)
 

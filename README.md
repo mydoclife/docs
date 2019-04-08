@@ -12,7 +12,7 @@
 
 ## JS知识
 
-### [Jquery技巧](/Js/README.md)
+### [Jquery](/Js/README.md)
 
 * [es 的分布式架构原理能说一下么（es 是如何实现分布式的啊）？](/docs/high-concurrency/es-architecture.md)
 

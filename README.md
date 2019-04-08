@@ -1,16 +1,5 @@
 # 互联网 小工程师[进阶](http://www.linuxphp.cn)知识完全扫盲
 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-
 本系列知识出自小工程师，内容涵盖\[PHP\]。
 
 学习之前，先来看看 [Issues 讨论区](https://github.com/doocs/advanced-java/issues/9#issue-394275038)的技术面试官是怎么说的吧。本项目也欢迎所有面试官和面试者都来分享自己的一些想法。

@@ -6,13 +6,13 @@
 
 ## PHP知识
 
-### [ThinkPHP](/docs/PHP/ThinkPHP/README.md)
+### [ThinkPHP](/docs/blob/master/PHP/ThinkPHP/README.md)
 
 * [为什么使用消息队列？消息队列有什么优点和缺点？Kafka、ActiveMQ、RabbitMQ、RocketMQ 都有什么优点和缺点？](/docs/high-concurrency/why-mq.md)
 
 ## JS知识
 
-### [Jquery技巧](/docs/Js/README.md)
+### [Jquery技巧](/docs/blob/master/Js/README.md)
 
 * [es 的分布式架构原理能说一下么（es 是如何实现分布式的啊）？](/docs/high-concurrency/es-architecture.md)
 

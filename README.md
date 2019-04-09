@@ -6,6 +6,10 @@
 
 ### PHP
 
+PHP代码
+
+- [二维码生成&加logo&二维码合并底图](/PHP/code/phpqrcode)
+
 #### [ThinkPHP](/PHP/ThinkPHP/README.md)
 
 * [为什么使用消息队列？](/docs/high-concurrency/why-mq.md)

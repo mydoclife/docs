@@ -6,7 +6,7 @@
 
 ### PHP
 
-PHP代码
+[PHP代码](/PHP/)
 
 - [二维码生成&加logo&二维码合并底图](/PHP/code/phpqrcode)
 
